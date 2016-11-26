@@ -6,7 +6,7 @@ import static org.hamcrest.CoreMatchers.containsString;
 /**
  * Created by USER on 05.11.2016.
  */
-public class RestAssured {
+public class RestAssuredTest {
     private final String URL = "http://jsonplaceholder.typicode.com";
     private final String CONTENT_TYPE = "application/json";
 
